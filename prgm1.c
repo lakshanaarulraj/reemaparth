@@ -5,9 +5,9 @@ int a;
 scanf("%d",&a);
 if(a>0)
 printf("Posive");
-else if
-printf("Negative");
-else(a==0)
+else if(a==0)
 printf("zero");
+else
+printf("negative");
 return 0;
 }
