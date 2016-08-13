@@ -7,11 +7,11 @@ if(a>0)
 {
 printf("Posive");
 }
-else 
+else if
 {
 printf("Negative");
 }
-else if(a==0)
+else(a==0)
 {
 printf("zero");
 }
